@@ -4,6 +4,7 @@ Collect some papers about ALS point cloud classification.
 
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Beyond single receptive field: A receptive field fusion-and-stratification network for airborne laser scanning point cloud classification | ISPRS Journal | [PDF](https://www.sciencedirect.com/science/article/pii/S0924271622000922?dgcid=coauthor) | [CODE](https://github.com/WingkeungM/RFFS-Net) |
 | A geometry-attentional network for ALS point cloud classification | ISPRS Journal | [PDF](https://www.sciencedirect.com/science/article/pii/S0924271620300861) | - |
 | Airborne multispectral LiDAR point cloud classification with a feature Reasoning-based graph convolution network | ISPRS Journal | [PDF](https://www.sciencedirect.com/science/article/pii/S030324342100341X) | - |
 | Adaptive neighborhood size and effective geometric features selection for 3D scattered point cloud classification | ISPRS Journal | [PDF](https://www.sciencedirect.com/science/article/pii/S1568494621010395) | - |
